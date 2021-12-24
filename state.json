@@ -1,0 +1,11 @@
+[{
+    "gpio":6,
+    "name":"QHY相机",
+    "state":1,
+    "update_at":""
+},{
+    "gpio":13,
+    "name":"usb hub",
+    "state":1,
+    "update_at":""
+}]

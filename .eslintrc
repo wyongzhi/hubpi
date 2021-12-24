@@ -1,0 +1,14 @@
+{
+    "parserOptions": {
+      "ecmaVersion": 2017,
+      "sourceType": "module"
+    },
+    "extends": "eslint-config-egg",
+    "rules": {
+      "semi": [2, "always"], //强制要求分号
+      "comma-dangle": [0, "never"], //不进行强制的对象最后一个，的要求
+      "indent": 2, //统一为两个空格的代码缩进
+      "space-before-function-paren": [0, "never"]
+    }
+  }
+  
